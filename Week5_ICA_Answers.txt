@@ -1,0 +1,334 @@
+Module 5 Programming Project Quiz (25 Points) - Each question is worth 1 point up to 25
+
+Name _______________________________________________________________________
+
+Select most correct answer. 
+
+Extra questions to allow for incorrect answers and allow to maximize points.  
+
+1) What is the purpose of the Scanner class in Java, as it relates to this project?
+
+A) To perform mathematical calculations.
+
+B) To generate random numbers.
+
+*C) To read user input from the console.
+
+D) To display formatted output to the console.
+
+
+2) According to the project description, what is the valid range for the integer input in Part 1?
+
+A) Any positive integer.
+
+B) 1 to 15.
+
+*C) 0 to 15.
+
+D) 0 to 16.
+
+
+3) If the user enters an integer outside the specified range in Part 1, what should the program do?
+
+A) Automatically correct the input to a valid number.
+
+B) Ask the user to re-enter the number until it is valid.
+
+*C) Display an error message.
+
+D) Terminate without an error message.
+
+
+4) How many digits must the binary representation of the number have in Part 1?
+
+A) The number of digits can vary.
+
+B) 8 digits.
+
+*C) 4 digits.
+
+D) The same number of digits as the decimal value.
+
+
+5) What Java method is most suitable for converting an integer to its hexadecimal representation?
+
+A) Integer.toOctalString()
+
+B) Integer.toString()
+
+C) Integer.parseHexString()
+
+*D) Integer.toHexString()
+
+
+6) How can you ensure the binary string output is exactly 4 digits long, even for small numbers like 1?
+
+A) By using a loop to add spaces.
+
+B) By using the String.trim() method.
+
+*C) By padding the string with leading zeros.
+
+D) By using a specific printf format specifier.
+
+
+7) How is a random uppercase letter generated in Part 1?
+
+A) By picking a letter from a pre-defined list.
+
+*B) By generating a random number and adding the ASCII value of 'A'.
+
+C) By using the Math.random() method directly on characters.
+
+D) By reading a random letter from a file.
+
+
+8) Which of the following characters is considered a vowel in this project?
+
+A) Y
+
+*B) A
+
+C) B
+
+D) C
+
+
+9)What is the primary purpose of Part 2 of the project?
+
+A) To demonstrate knowledge of random number generation.
+
+B) To practice input validation.
+
+*C) To calculate and display employee payroll details.
+
+D) To convert numbers between different bases.
+
+
+10) What kind of tax rates are the user required to enter in Part 2?
+
+A) As percentages (e.g., 15%).
+*B) As decimals (e.g., 0.15).
+C) As fractions (e.g., 1/20).
+D) As whole numbers (e.g., 15).
+
+
+11) The gross pay is calculated by multiplying which two values?
+
+A) Hours worked and total deductions.
+
+B) Hours worked and net pay.
+
+C) *Hours worked and hourly pay rate.
+
+D) Hourly pay rate and federal tax.
+
+
+12) How is the total deduction calculated?
+
+A) Gross pay minus federal tax withholding.
+
+B) Net pay plus gross pay.
+
+*C) Sum of federal and state tax withholdings.
+
+D) Hours worked times tax rates.
+
+
+13) The net pay is calculated by subtracting which value from gross pay?
+
+A) Hourly pay rate.
+
+B) Federal tax withholding.
+
+C) State tax withholding.
+
+*D) Total deductions.
+
+
+14) How should all monetary values be formatted in the final output for Part 2?
+
+A) With a percent sign (%).
+
+B) As an integer.
+
+*C) With a dollar sign ($).
+
+D) With commas separating thousands.
+
+
+15) How should tax rates be displayed in the final payroll summary?
+
+A) As a decimal.
+
+B) As a fraction.
+
+*C) As a percentage (%).
+
+D) As an integer.
+
+
+16) What is the hexadecimal equivalent of the decimal number 13?
+
+A) 13
+
+B) B
+
+*C) D
+
+D) C
+
+
+17) What is the binary equivalent of the decimal number 5?
+
+A) 0101
+
+B) 1010
+
+C) 1100
+
+*D) 101
+
+
+18) What is the correct 4-digit binary representation of the decimal number 3?
+
+A) 11
+
+B) 1100
+
+C) 0011
+
+D) *0011
+
+
+19) In Part 1, if the random letter generated is 'C', what should the output for its type be?
+
+A) vowel
+
+*B) consonant
+
+C) invalid
+
+D) number
+
+
+20) Which of the following data types would be most appropriate for storing hourly pay rate in Java?
+
+A) int
+
+B) String
+
+*C) double
+
+D) char
+
+
+21) What is the purpose of the yourlastname part of the file naming convention?
+
+A) To indicate the project module.
+
+B) To specify the programming language.
+
+*C) To personalize the file name for submission.
+
+D) To identify the specific task within the project.
+
+
+22) What should be included in the header comments of each .java file?
+
+*A) Name, date, program name, and a brief description.
+
+B) Only the author's name.
+
+C) Only the program name and a description.
+
+D) The full code and sample output.
+
+
+23) Which of the following is not a required calculation for the payroll program?
+
+A) Gross pay.
+
+B) Net pay.
+
+C) Total deductions.
+
+*D) Annual salary.
+
+
+24) If an employee worked 30 hours at a pay rate of $15.00, what is their gross pay?
+
+A) $150.00
+
+B) $30.00
+
+C) $400.00
+
+*D) $450.00
+
+
+25) If the federal tax rate is 15% and the gross pay is $1000.00, what is the federal tax withholding?
+
+A) $15.00
+
+*B) $150.00
+
+C) $850.00
+
+D) $100.00
+
+
+26) If a state tax rate is 5% and the gross pay is $1000.00, what is the state tax withholding?
+
+A) $5.00
+
+B) $100.00
+
+C) $150.00
+
+*D) $50.00
+
+
+27) What is the total deduction if the federal tax is $150.00 and the state tax is $50.00?
+
+A) $100.00
+
+B) $20.00
+
+C) $150.00
+
+*D) *$200.00
+
+
+28) If the gross pay is $1000.00 and total deductions are $200.00, what is the net pay?
+
+A) $1200.00
+
+*B) $800.00
+
+C) $700.00
+
+D) $1000.00
+
+
+29) What is the purpose of verifying the files after uploading them?
+
+A) To check for plagiarism.
+
+*B) To ensure they compile and run correctly.
+
+C) To get a new file name.
+
+D) To compress the files for submission.
+
+
+30) In the sample output for Part 2, what does the line of hyphens (---) represent?
+
+A) A mathematical subtraction.
+
+B) An error message.
+
+C) The end of the program.
+
+*D) A visual separator for the summary.
+
